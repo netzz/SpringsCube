@@ -1,0 +1,62 @@
+{
+   "BlobsManager" : {
+      "enableMinDetectedTimeFilter" : false,
+      "maxMergeDis" : 200,
+      "maxNumBlobs" : 100,
+      "maxUndetectedTime" : 500,
+      "minDetectedTime" : 0,
+      "normalizePercentage" : 1
+   },
+   "Homography" : {
+      "point0x" : -1400,
+      "point0y" : -2333,
+      "point1x" : 1533,
+      "point1y" : -2266,
+      "point2x" : 1439,
+      "point2y" : -253,
+      "point3x" : -1333,
+      "point3y" : -280,
+      "pointMask0x" : -1400,
+      "pointMask0y" : -2333,
+      "pointMask1x" : 1533,
+      "pointMask1y" : -2266,
+      "pointMask2x" : 1439,
+      "pointMask2y" : -253,
+      "pointMask3x" : -1333,
+      "pointMask3y" : -280
+   },
+   "LaserTouchDetector" : {
+      "peakDelta" : 10
+   },
+   "MainSettings" : {
+      "blobsManagerDraw" : false,
+      "flipHorizontal" : false,
+      "flipVertical" : false,
+      "laserTouchDetectorDraw" : false,
+      "oscWatcherEnable" : false,
+      "remapFrom" : [ 0, 0 ],
+      "remapTo" : [ 1, 1 ]
+   },
+   "OSCSender" : {
+      "ip" : "127.0.0.1",
+      "port" : 3000
+   },
+   "OSCWatcher" : {
+      "client_port" : 3002,
+      "name" : "tracker",
+      "server_ip" : "192.168.0.3",
+      "server_port" : 3000
+   },
+   "selectedDeviceCom" : -1,
+   "selectedDeviceIndex" : 0,
+   "selectedDeviceIp" : "192.168.0.10",
+   "selectedDevicePort" : 10940,
+   "selectedSource" : 1,
+   "view_matrix" : {
+      "scale_x" : 0.125,
+      "scale_y" : 0.125,
+      "translation_x" : 474,
+      "translation_y" : 600
+   }
+}
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <userSettings>
+        <LaserTracker.Properties.Settings>
+            <setting name="boundsx" serializeAs="String">
+                <value>392</value>
+            </setting>
+            <setting name="boundsy" serializeAs="String">
+                <value>225</value>
+            </setting>
+            <setting name="boundswidth" serializeAs="String">
+                <value>220</value>
+            </setting>
+            <setting name="boundsheight" serializeAs="String">
+                <value>136</value>
+            </setting>
+            <setting name="AutoStart" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="SendTUIO" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="SendTUIOMarker" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="LaserIP" serializeAs="String">
+                <value>192.168.1.13</value>
+            </setting>
+            <setting name="LaserPORT" serializeAs="String">
+                <value>2111</value>
+            </setting>
+            <setting name="TuioIP" serializeAs="String">
+                <value>127.0.0.1</value>
+            </setting>
+            <setting name="TuioPORT" serializeAs="String">
+                <value>3333</value>
+            </setting>
+            <setting name="FlipX" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="FlipY" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Prediction" serializeAs="String">
+                <value>49</value>
+            </setting>
+            <setting name="Angle" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="ResX" serializeAs="String">
+                <value>1280</value>
+            </setting>
+            <setting name="ResY" serializeAs="String">
+                <value>768</value>
+            </setting>
+            <setting name="UdpIP" serializeAs="String">
+                <value>127.0.0.1</value>
+            </setting>
+            <setting name="UdpPort" serializeAs="String">
+                <value>7500</value>
+            </setting>
+            <setting name="recUdp" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="VOE" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Remission" serializeAs="String">
+                <value>30</value>
+            </setting>
+            <setting name="Delay" serializeAs="String">
+                <value>5</value>
+            </setting>
+            <setting name="Frequency" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="LaserSelect" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="ScanRange" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="w7enabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="startMinimized" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="useKalman" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="LockIn" serializeAs="String">
+                <value>16</value>
+            </setting>
+            <setting name="SingleMouse" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="SingleMouseClick" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="SingleMouseHide" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </LaserTracker.Properties.Settings>
+    </userSettings>
+</configuration>
