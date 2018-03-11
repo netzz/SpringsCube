@@ -4,7 +4,7 @@ start /b "c:\Program Files\Derivative\TouchDesigner099\bin\"touchdesigner099.exe
 TIMEOUT /T 3 /NOBREAK
 start /b "c:\Program Files\Derivative\TouchDesigner099\bin\"touchdesigner099.exe Process2.toe
 TIMEOUT /T 3 /NOBREAK
-cd "ZD_KidalkiTracker"
+cd "ZD_KidalkiTracker2"
 start /b HokuyoTracker.exe
 TIMEOUT /T 3 /NOBREAK
 c:
