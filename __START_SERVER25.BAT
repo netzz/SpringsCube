@@ -10,5 +10,3 @@ TIMEOUT /T 3 /NOBREAK
 c:
 cd "c:\Program Files (x86)\rayd GmbH\Hummingbird Driver\"
 start /b LaserTracker.exe
-
-
