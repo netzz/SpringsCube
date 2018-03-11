@@ -10,3 +10,4 @@ TIMEOUT /T 3 /NOBREAK
 c:
 cd "c:\Program Files (x86)\rayd GmbH\Hummingbird Driver\"
 start /b LaserTracker.exe
+start /b "Ableton" "C:\ProgramData\Ableton\Live 9 Suite\Program\Ableton Live 9 Suite.exe" "D:\RSV_SETUP\ableton\Coube Project Version 3\Coube Project Version 3\Coube 3 .als"
