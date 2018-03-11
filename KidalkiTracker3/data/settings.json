@@ -12,16 +12,16 @@
       "point0y" : -2333,
       "point1x" : 1533,
       "point1y" : -2266,
-      "point2x" : 1432,
-      "point2y" : -328,
+      "point2x" : 1448,
+      "point2y" : -368,
       "point3x" : -1333,
       "point3y" : -280,
       "pointMask0x" : -1400,
       "pointMask0y" : -2333,
       "pointMask1x" : 1533,
       "pointMask1y" : -2266,
-      "pointMask2x" : 1432,
-      "pointMask2y" : -328,
+      "pointMask2x" : 1448,
+      "pointMask2y" : -368,
       "pointMask3x" : -1333,
       "pointMask3y" : -280
    },
@@ -39,13 +39,13 @@
    },
    "OSCSender" : {
       "ip" : "127.0.0.1",
-      "port" : 3000
+      "port" : 3005
    },
    "OSCWatcher" : {
-      "client_port" : 3002,
+      "client_port" : 3012,
       "name" : "tracker",
       "server_ip" : "127.0.0.1",
-      "server_port" : 3000
+      "server_port" : 3010
    },
    "selectedDeviceCom" : -1,
    "selectedDeviceIndex" : 0,
