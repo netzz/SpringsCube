@@ -39,7 +39,7 @@
    },
    "OSCSender" : {
       "ip" : "127.0.0.1",
-      "port" : 3005
+      "port" : 3001
    },
    "OSCWatcher" : {
       "client_port" : 3012,

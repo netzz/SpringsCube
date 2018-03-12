@@ -5,7 +5,7 @@
       "maxNumBlobs" : 100,
       "maxUndetectedTime" : 500,
       "minDetectedTime" : 0,
-      "normalizePercentage" : 1
+      "normalizePercentage" : 0.4
    },
    "Homography" : {
       "point0x" : -1400,
@@ -38,13 +38,13 @@
       "remapTo" : [ 1, 1 ]
    },
    "OSCSender" : {
-      "ip" : "127.0.0.1",
+      "ip" : "192.168.0.191",
       "port" : 3000
    },
    "OSCWatcher" : {
       "client_port" : 3002,
       "name" : "tracker",
-      "server_ip" : "127.0.0.1",
+      "server_ip" : "192.168.0.191",
       "server_port" : 3000
    },
    "selectedDeviceCom" : -1,

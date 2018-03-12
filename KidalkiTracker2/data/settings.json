@@ -5,7 +5,7 @@
       "maxNumBlobs" : 100,
       "maxUndetectedTime" : 500,
       "minDetectedTime" : 0,
-      "normalizePercentage" : 1
+      "normalizePercentage" : 0.3
    },
    "Homography" : {
       "point0x" : -1400,
